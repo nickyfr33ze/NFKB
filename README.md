@@ -1,4 +1,4 @@
-# My Knowledge Base 🧠
+# Nick Friesen's Knowledge Base 🧠
 A public repo to house my notes from various courses, labs, and cirriculum I wish to share with the world and document my thought process.
 
 Content will contain, but not be limited to the following:
