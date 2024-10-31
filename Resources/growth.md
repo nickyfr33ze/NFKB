@@ -13,3 +13,5 @@ A collection of resources used to grow as a human. Currently being pulled from a
         * 55% = communication is based on body language and posture (smile!)
 * []()
     * 
+* []()
+    * 
