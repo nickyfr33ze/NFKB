@@ -1,6 +1,13 @@
 # Nick Friesen's Knowledge Base 🧠
 A public repo to house my notes from various courses, labs, and cirriculum I wish to share with the world and document my thought process.
 
+## A Disclaimer ‼
+This repo may contain various malicious code or snippets of malicious code. I am not responsible for anything that may come from forking or cloning this repo. It is on you to whitelist the directory in order to avoid any issues on your host. 
+
+You have been warned ⚠️
+
+---
+
 Content will contain, but not be limited to the following:
 1. HackTheBox work.
 2. TryHackMe boxes.
