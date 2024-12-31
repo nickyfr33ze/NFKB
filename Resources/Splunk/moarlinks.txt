@@ -1,0 +1,10 @@
+All of these should help answer questions early on. Splunk has a bunch of resources + tons a great examples/doc. Also if your company currently uses splunk, see if they have the training subscription, that would allow you to take certain splunk courses for free
+
+https://www.splunk.com/en_us/blog/learn/splunk-cheat-sheet-query-spl-regex-commands.html
+
+https://www.stationx.net/splunk-cheat-sheet/
+
+https://christiant.io/spl-beginner
+
+https://www.splunk.com/en_us/resources/splunk-quick-reference-guide.html
+https://www.splunk.com/en_us/pdfs/solution-guide/splunk-quick-reference-guide.pdf
