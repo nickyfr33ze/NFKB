@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,29 +83,8 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
-          },
-          {
-            "id": "bb395ce34f370d2d",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "024128af3b161b5f",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +195,9 @@
   },
   "active": "774a4a4171c23fa0",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Resources/CyberSpace.md",
+    "Research/POS_systems/Articles/tech_radar.md",
     "My_Knowledge_Base/COMMS NAS/Installation.md",
     "My_Knowledge_Base/COMMS NAS/contacts.md",
     "My_Knowledge_Base/calendarNotes.md",
